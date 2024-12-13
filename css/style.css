@@ -334,7 +334,7 @@ h6,
 #foot2{background-color: rgb(0, 0, 117);}
 #claro{display: none;}
 #logo1{display: none;}
-footer{background-color: #ff0000;width: 100vw;height: 76vh;margin: 0;padding: 0; box-sizing: border-box;position: relative;}
+footer{background-color: #ffffff;width: 100vw;height: 60vh;margin: 0;padding: 0; box-sizing: border-box;position: relative;}
 #testimonio{max-height: 100vh;}
 html,body {
 width:100%;
